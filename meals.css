@@ -2,5 +2,11 @@
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: bolder;
+    text-size-adjust: 140%;
+    font-size: 170%;
+
+}
+.col-md-2 {
+    border-image-width: auto;
     
 }
